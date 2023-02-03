@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm joes-ju,a graduate student frome Changzhou, China.
+I'm joes-ju,a graduate student frome ChangZhou, China.
 - 🔭 I’m currently learning on NIT
 - 🌱 Learning Machine Learning Algorithm 
 - 🚀 I use daily:
