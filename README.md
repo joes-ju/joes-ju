@@ -29,5 +29,12 @@ I'm joes-ju,a graduate student frome ChangZhou, China.
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap)
 
+<!-- Markdown -->
+![joes-ju's GitHub stats](https://github-readme-stats.vercel.app/api?username=joes-ju)
+ 
 
-[![joes-ju's github stats](https://github-readme-stats.vercel.app/api?username=joes_ju&theme=dark&show_icons=true)](https://github.com/joes-ju)
+
+<!-- Markdown -->
+![](https://visitor-badge.glitch.me/badge?page_id=joes-ju)
+
+
